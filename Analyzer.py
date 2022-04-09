@@ -12,7 +12,7 @@ def swing_trade(s_p,sl,risk):
     print("Your STOP LOSS should be: ", s_p-diff)
     print("\nBuying Quantity should be: ", int(quantity))
     print("\nThen Your Profit will be: ", profits)
-    print("\nClose the trade when you hit", profits,". Thats all you could get with the following trade!!!")
+    print("\nClose the trade when you hit", profits,". That's all you could get with this trade!!!")
 
 def intra_day():
     pass
